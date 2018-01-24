@@ -1,0 +1,9 @@
+<suite name="s1">
+	<test name="t1">
+
+		<classes>
+			<class name="com.wd.tng.OhrmAddEmpTest1" />
+		</classes>
+
+	</test>
+</suite>
